@@ -2,6 +2,7 @@
 [![Hits](https://hits.sh/github.com/McBlueFrog.svg?label=Profile%20Views&color=388ffa)](https://hits.sh/github.com/McBlueFrog/)
 
 🌱 I’m currently learning Embeded Rust
+
 🔭 I’m currently working on a Bionic Arms and EMG
 
 <!--
