@@ -3,7 +3,7 @@
 
 🌱 I’m currently learning Embeded Rust
 
-🔭 I’m currently working on a Bionic Arms and EMG
+🔭 I’m currently working on a Bionic Arm and EMG
 
 <!--
 **McBlueFrog/McBlueFrog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
