@@ -5,7 +5,7 @@
 
 🔭 I’m currently working on:
 - [Bionic Arm]()
-- [EMG]()
+- [EMG](https://github.com/Bionixia/NanoTorque)
 - [Nano Servo]()
 
 <!--
