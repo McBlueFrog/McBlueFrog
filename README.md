@@ -5,8 +5,8 @@
 
 🔭 I’m currently working on:
 - [Bionic Arm]()
-- [EMG](https://github.com/Bionixia/NanoTorque)
-- [Nano Servo]()
+- [EMG]()
+- [NanoTorque Servo](https://github.com/Bionixia/NanoTorque)
 
 <!--
 **McBlueFrog/McBlueFrog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
