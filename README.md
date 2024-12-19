@@ -1,7 +1,7 @@
 ## Welcome to my Github Profile!👋
 [![Hits](https://hits.sh/github.com/McBlueFrog.svg?label=Profile%20Views&color=388ffa)](https://hits.sh/github.com/McBlueFrog/)
 
-Hello! I'm Ati, aka McBlueFrog. I'm passionate about robotics and anything with a galvanic connection to electronics! (pun intended)
+Hello! I'm Ati, aka McBlueFrog. I'm passionate about robotics and anything galvanically connected to electronics! (pun intended)
 
 ### 🌱 Currently Learning
 - Embedded Rust
