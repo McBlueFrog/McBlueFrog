@@ -5,7 +5,6 @@ Hello! I'm Ati, aka McBlueFrog. I'm passionate about robotics and anything galva
 
 ### 🌱 Currently Learning
 - Embedded Rust
-- TensorFlow
 - Mechanical Engineering
 - Ohm's Law :P
 
