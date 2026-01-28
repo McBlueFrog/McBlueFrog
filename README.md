@@ -11,28 +11,6 @@ Founder of **Mechaxil** (DIY open-hardware kits) and **Bionixia** (my personal b
 
 ---
 
-## Current State of Mind
-> "I'll just fix this one thing."  
-> — me, 01:37 AM on a random weekday
-
----
-
-## What My Brain Thinks I Do
-- Elegant PCB design  
-- Clean firmware development  
-- Maintain healthy sleep cycles  
-
-## What I Actually Do
-- Forget to re-import new components until the PCB screams  
-- Rewire entire circuits because they look ugly  
-- Reprint mechanical parts eight times to fix a 0.2 mm gap  
-- Add features no one asked for because *why not*  
-- Write Python scripts at ungodly hours because automation = happiness  
-- Attempt Rust → suffer → continue anyway  
-- Be too lazy, ask ChatGPT → get annoyed by ChatGPT → do 90% of it myself anyway even this was made by that clancker 
-
----
-
 # Projects Taking Over My Life
 
 ## Bionic Arm
@@ -51,12 +29,10 @@ DIY electronics kits for people who want to learn hardware without selling a kid
 # Tech I Work With
 
 ### Microcontrollers
-Raspberry Pi Pico, ESP32, STM32  
-(trying to catch them all like Pokémon)
+Raspberry Pi Pico, ESP32, STM32, NXP
 
 ### Languages
-Python, C, Rust, Zig  
-(you cannot convince me to use JavaScript, please stop trying)
+Python, C, Rust, Zig 
 
 ### CAD and Graphics
 Fusion 360, Krita
@@ -65,15 +41,10 @@ Fusion 360, Krita
 Unreal Engine 4 (UE5… yeah no), Raylib, Blender, Audacity
 
 ### AI and Computer Vision
-YOLO training (dataset suffering included)
-
-### Mechanical Interests
-If it moves, it's automatically cool.
-
+YOLO training
 ---
 
-# Currently Learning
-- Embedded Rust  
+# Currently Learning 
 - Mechanical engineering fundamentals  
 - How not to overengineer everything  
   (status: catastrophic failure)
