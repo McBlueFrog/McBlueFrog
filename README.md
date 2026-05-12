@@ -6,8 +6,6 @@
 I'm a multidisciplinary hardware and embedded systems engineer working across electronics, robotics, bionics, firmware, and mechanical design.  
 If it has wires, gears, signal noise, or moves in a slightly cursed manner, I'll probably build it, rebuild it, and debug it at 2 AM.
 
-I work as a technician at Safety Logistics Kft., where I handle manufacturing, electronics development, and some software tooling — which is a polite way of saying I do a bit of everything.
-
 ---
 
 ## Projects Taking Over My Life
@@ -51,7 +49,7 @@ Functional enough to be interesting, unfinished enough to be humbling.
 
 ## Contact
 
-Email: **zavoczkiattila@mechaxil.com**  
+Email: **attila.zavoczki@mechaxil.com**  
 Website: **https://mechaxil.com**
 
 ---
